@@ -1,3 +1,4 @@
 ceci est un fichier texte ajouté
 ajout d'une deuxiemme ligne à ce texte.
 Ligne ajoutée depuis github
+cette ligne a été modifiée en local.
